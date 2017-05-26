@@ -7,7 +7,8 @@
         "description": "Talk to David",
         "show_toast": true,
         "announce_to_chat": false,
-        "frame": "task"
+        "frame": "task",
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
     },
     "criteria": {
         "impossible": {
