@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "Starting point",
+        "description": "Talk to David",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "frame": "task"
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
