@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shield"
+        },
+        "title": "Shield",
+        "description": "block damage and stuff",
+        "parent": "root",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

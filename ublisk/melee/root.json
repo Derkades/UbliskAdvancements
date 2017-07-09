@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:dye",
+            "data": 1
+        },
+        "title": "Melee",
+        "description": "asdf",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_sword"
+        },
+        "title": "Sword",
+        "description": "SLAAN!!!",
+        "parent": "root",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "frame": "goal"
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
