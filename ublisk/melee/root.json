@@ -9,6 +9,7 @@
         "show_toast": true,
         "announce_to_chat": false,
         "frame": "challenge"
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
     },
     "criteria": {
         "impossible": {
